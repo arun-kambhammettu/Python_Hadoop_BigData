@@ -1,0 +1,30 @@
+--hive -f aircraftdetails.hive
+ADD jar /root/final_project_ASJ/myjars/csv-serde-1.1.2-0.11.0-all.jar;
+USE mydb;
+DROP TABLE aircraftdetails;
+DROP TABLE aircrafttdetails_orc;
+
+CREATE TABLE aircraftdetails(flightnumber STRING,enginename STRING,businessseats STRING,economyseats STRING,manufacturedyear STRING)
+ROW FORMAT SERDE 'com.bizo.hive.serde.csv.CSVSerde'
+WITH SERDEPROPERTIES (
+   "separatorChar" = ",",
+   "quoteChar"     = "\"",
+   "escapeChar"    = "\\"
+)
+STORED AS TEXTFILE;
+
+LOAD DATA LOCAL INPATH '/root/final_project_ASJ/data/aircraftdetails.csv' INTO TABLE aircraftdetails;
+
+CREATE TABLE aircraftdetails_orc(flightnumber STRING,enginename STRING,businessseats INT,economyseats INT,manufacturedyear INT) STORED AS ORC;
+
+INSERT OVERWRITE TABLE aircraftdetails_orc
+SELECT
+flightnumber
+,enginename
+,businessseats
+,economyseats
+,manufacturedyear
+FROM aircraftdetails;
+
+select * from aircraftdetails_orc;
+

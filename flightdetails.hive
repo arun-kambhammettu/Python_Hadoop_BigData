@@ -1,0 +1,40 @@
+--hive -f flightdetails.hive
+ADD jar /root/final_project_ASJ/myjars/csv-serde-1.1.2-0.11.0-all.jar;
+USE mydb;
+DROP TABLE FlightDetails;
+DROP TABLE FlightDetails_ORC;
+
+CREATE TABLE FlightDetails(Travel_ID STRING,FlightNumber STRING,destinationCity STRING,destinationCountry STRING,carrier STRING,destinationContinent STRING,originalContinent STRING,originalCity STRING,origin STRING,originalCountry STRING,traveldate STRING,typeofpassenger STRING,stop_1 STRING,stop_2 STRING,fareInDollars STRING)
+ ROW FORMAT SERDE 'com.bizo.hive.serde.csv.CSVSerde'
+ WITH SERDEPROPERTIES (
+   "separatorChar" = ",",
+   "quoteChar"     = "\"",
+   "escapeChar"    = "\\"
+  )
+ STORED AS TEXTFILE;
+
+LOAD DATA LOCAL INPATH '/root/final_project_ASJ/data/flightdata.csv' INTO TABLE FlightDetails;
+
+CREATE TABLE FlightDetails_ORC(Travel_ID INT,FlightNumber STRING,destinationCity STRING,destinationCountry STRING,carrier STRING,destinationContinent STRING,originalContinent STRING,originalCity STRING, origin STRING,originalCountry STRING,traveldate STRING,typeofpassenger STRING,stop_1 STRING,stop_2 STRING,fareInDollars INT) STORED AS ORC;
+
+INSERT OVERWRITE TABLE FlightDetails_ORC
+SELECT
+Travel_ID
+,FlightNumber
+,destinationCity
+,destinationCountry
+,carrier
+,destinationContinent
+,originalContinent
+,originalCity
+,origin
+,originalCountry
+,traveldate
+,typeofpassenger
+,stop_1
+,stop_2
+,fareInDollars
+FROM FlightDetails
+WHERE Travel_ID <>'' AND stop_2 != '0';
+
+--select * from FlightDetails_ORC;

@@ -1,0 +1,287 @@
+1,XH041,Kabul,Afghanistan,AC,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LHR,DXB,780
+2,JK451,Kabul,Afghanistan,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,YUL,LHR,450
+3,LX529,Kabul,Afghanistan,AC,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,LHR,DOH,560
+4,PC483,Kabul,Afghanistan,BA,Asia,North America,Ottawa,YOW,Canada,1/10/11,transfer,LHR,DEL,340
+5,NF153,Kabul,Afghanistan,EK,Asia,North America,Toronto,YYZ,Canada,1/10/11,transfer,DXB,0,550
+6,XY488,Kabul,Afghanistan,EK,Asia,North America,Ottawa,YOW,Canada,2/11/11,transfer,LHR,DXB,630
+7,MU839,Kabul,Afghanistan,EK,Asia,North America,Ottawa,YOW,Canada,2/11/11,transfer,YYZ,DXB,1000
+,GP487,Kabul,Afghanistan,KL,Asia,North America,Montreal,YUL,Canada,2/11/11,transfer,AMS,DXB,1000
+9,BZ371,Kabul,Afghanistan,LH,Asia,North America,Ottawa,YOW,Canada,2/11/11,transfer,FRA,0,948
+10,ME064,Yerevan,Armenia,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,0,1414
+11,CE132,Yerevan,Armenia,AC,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,YYC,LHR,1248
+12,VD734,Yerevan,Armenia,AC,Asia,North America,Kingston,YGK,Canada,1/1/11,transfer,YYZ,LHR,720
+13,BJ294,Yerevan,Armenia,AF,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,CDG,0,1419
+14,RK781,Yerevan,Armenia,AF,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,CDG,0,173
+15,FB636,Yerevan,Armenia,BD,Asia,North America,Halifax,YHZ,Canada,1/1/11,transfer,LHR,0,901
+16,WZ969,Yerevan,Armenia,BD,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,0,851
+,FC739,Yerevan,Armenia,BD,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,LHR,0,1089
+18,FQ899,Yerevan,Armenia,BD,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,0,1173
+19,UO681,Yerevan,Armenia,BD,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,LHR,0,663
+20,QE171,Yerevan,Armenia,LO,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,WAW,0,1142
+21,RH991,Yerevan,Armenia,OS,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,FRA,VIE,269
+22,EQ193,Yerevan,Armenia,VV,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,KBP,0,1113
+23,YZ186,Baku,Azerbaijan,AC,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,FRA,0,1398
+24,QY042,Baku,Azerbaijan,AC,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LHR,0,196
+25,TO626,Baku,Azerbaijan,AC,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,LHR,0,983
+,UK750,Baku,Azerbaijan,AC,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,0,1080
+27,CN222,Baku,Azerbaijan,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,0,1470
+,OI911,Baku,Azerbaijan,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,LHR,0,612
+29,RC239,Baku,Azerbaijan,AC,Asia,North America,St. Johns,YYT,Canada,1/1/11,transfer,YHZ,LHR,789
+30,NP001,Baku,Azerbaijan,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,YYC,LHR,1255
+31,WN686,Baku,Azerbaijan,BD,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LHR,0,341
+32,BA287,Baku,Azerbaijan,BD,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,0,1189
+33,OR480,Baku,Azerbaijan,BD,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,0,1045
+34,IX297,Baku,Azerbaijan,LH,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,FRA,0,359
+35,CJ579,Baku,Azerbaijan,TK,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,IST,0,404
+36,PL392,Baku,Azerbaijan,VV,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,KBP,0,1117
+37,GZ829,Dhaka,Bangladesh,9W,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,DEL,0,504
+38,TI201,Dhaka,Bangladesh,9W,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,BRU,BOM,617
+39,JI917,Dhaka,Bangladesh,9W,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,BOM,1184
+40,IO759,Dhaka,Bangladesh,9W,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,BOM,396
+41,XI748,Dhaka,Bangladesh,9W,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LHR,DEL,985
+42,HG864,Dhaka,Bangladesh,9W,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LHR,DEL,1442
+43,DU811,Dhaka,Bangladesh,9W,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,DEL,1486
+44,LD571,Dhaka,Bangladesh,9W,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,DEL,470
+45,RS575,Dhaka,Bangladesh,9W,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,LHR,DEL,335
+46,JK522,Dhaka,Bangladesh,AC,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YYZ,HKG,1305
+47,BE931,Dhaka,Bangladesh,AC,Asia,North America,St. Johns,YYT,Canada,1/1/11,transfer,YYZ,FRA,162
+48,ZK859,Dhaka,Bangladesh,AC,Asia,North America,Winnipeg,YWG,Canada,1/1/11,transfer,YYZ,FRA,820
+49,EA651,Dhaka,Bangladesh,AI,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,DEL,0,1345
+50,JN375,Dhaka,Bangladesh,CX,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,418
+51,NE980,Dhaka,Bangladesh,CX,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,405
+52,GA213,Dhaka,Bangladesh,CX,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,HKG,0,728
+53,PS608,Dhaka,Bangladesh,CX,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,HKG,0,620
+54,VA274,Dhaka,Bangladesh,CX,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,YVR,HKG,454
+,XN251,Dhaka,Bangladesh,CX,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,YVR,HKG,976
+56,TI739,Dhaka,Bangladesh,CX,Asia,North America,Kelowna,YLW,Canada,1/1/11,transfer,YVR,HKG,1183
+57,BU800,Dhaka,Bangladesh,CX,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YYZ,HKG,933
+58,OE430,Dhaka,Bangladesh,EK,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,DXB,0,535
+59,BN874,Dhaka,Bangladesh,EK,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,CDG,DXB,370
+60,NZ176,Dhaka,Bangladesh,EK,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,JFK,DXB,881
+61,ED734,Dhaka,Bangladesh,EK,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,JFK,DXB,723
+62,WJ766,Dhaka,Bangladesh,EK,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LHR,DXB,637
+63,DP610,Dhaka,Bangladesh,EK,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LHR,DXB,1332
+64,UC704,Dhaka,Bangladesh,EK,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,LHR,DXB,1390
+65,WD190,Dhaka,Bangladesh,EK,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,DXB,943
+66,TP168,Dhaka,Bangladesh,EK,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,LHR,DXB,1233
+67,IW955,Dhaka,Bangladesh,EK,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,DXB,540
+68,XI609,Dhaka,Bangladesh,EK,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,LHR,DXB,422
+69,LZ027,Dhaka,Bangladesh,EK,Asia,North America,London,YXU,Canada,1/1/11,transfer,YYZ,LHR,1391
+70,MJ373,Dhaka,Bangladesh,EK,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YYZ,LHR,344
+71,XH200,Dhaka,Bangladesh,EY,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,AUH,0,244
+72,UK260,Chittagong,Bangladesh,EY,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,AUH,DAC,214
+73,MO070,Sylhet,Bangladesh,EY,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,AUH,DAC,406
+74,XM125,Dhaka,Bangladesh,GF,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,CDG,BAH,503
+75,FA922,Dhaka,Bangladesh,GF,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,FRA,BAH,1423
+76,IA111,Dhaka,Bangladesh,GF,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,FRA,BAH,452
+77,LC004,Dhaka,Bangladesh,GF,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,FRA,BAH,792
+78,BR443,Dhaka,Bangladesh,GF,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LHR,BAH,1253
+79,DS624,Dhaka,Bangladesh,GF,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,LHR,BAH,741
+80,WC870,Dhaka,Bangladesh,GF,Asia,North America,Halifax,YHZ,Canada,1/1/11,transfer,LHR,BAH,1436
+81,TD022,Dhaka,Bangladesh,GF,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,BAH,447
+82,AX969,Dhaka,Bangladesh,GF,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,BAH,509
+83,QX787,Dhaka,Bangladesh,GF,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,BAH,258
+84,EP096,Dhaka,Bangladesh,GF,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,BAH,1329
+85,RH854,Dhaka,Bangladesh,GF,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,LHR,BAH,460
+86,PB030,Dhaka,Bangladesh,GF,Asia,North America,Halifax,YHZ,Canada,1/1/11,transfer,YUL,FRA,1484
+87,PE811,Dhaka,Bangladesh,GF,Asia,North America,Regina,YQR,Canada,1/1/11,transfer,YYZ,FRA,849
+88,XK611,Dhaka,Bangladesh,GF,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,YYZ,LHR,784
+89,IH598,Dhaka,Bangladesh,GF,Asia,North America,Regina,YQR,Canada,1/1/11,transfer,YYZ,LHR,1026
+90,US106,Dhaka,Bangladesh,GF,Asia,North America,Saskatoon,YXE,Canada,1/1/11,transfer,YYZ,LHR,1059
+91,AD194,Sylhet,Bangladesh,GF,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LHR,BAH,977
+92,QI231,Chittagong,Bangladesh,GF,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,BAH,1058
+93,KM897,Sylhet,Bangladesh,GF,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,BAH,155
+94,AJ741,Dhaka,Bangladesh,KU,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,FRA,KWI,1472
+95,WS822,Dhaka,Bangladesh,KU,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,FRA,KWI,352
+96,XR988,Dhaka,Bangladesh,KU,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,FRA,KWI,686
+97,DG545,Chittagong,Bangladesh,KU,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,FRA,KWI,708
+98,FB725,Dhaka,Bangladesh,KU,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,FRA,KWI,426
+99,TQ982,Dhaka,Bangladesh,KU,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,KWI,1050
+100,QW265,Dhaka,Bangladesh,KU,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,KWI,1220
+101,WY342,Sylhet,Bangladesh,KU,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,FRA,KWI,220
+102,GF242,Sylhet,Bangladesh,KU,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,FRA,KWI,1145
+103,XC160,Sylhet,Bangladesh,KU,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,KWI,1000
+104,QI512,Chittagong,Bangladesh,KU,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,KWI,926
+105,NY783,Sylhet,Bangladesh,KU,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,KWI,1356
+106,WM311,Dhaka,Bangladesh,KU,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YUL,FRA,250
+107,BS798,Dhaka,Bangladesh,KU,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,YYC,FRA,1375
+108,DE436,Dhaka,Bangladesh,KU,Asia,North America,Saskatoon,YXE,Canada,1/1/11,transfer,YYC,FRA,1238
+109,XP307,Dhaka,Bangladesh,KU,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YUL,LHR,1308
+110,DO612,Dhaka,Bangladesh,KU,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,YYZ,LHR,295
+111,UP895,Dhaka,Bangladesh,KU,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,YYZ,LHR,1444
+112,PD421,Dhaka,Bangladesh,KU,Asia,North America,Halifax,YHZ,Canada,1/1/11,transfer,YYZ,LHR,741
+113,MH327,Dhaka,Bangladesh,KU,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YYZ,LHR,1130
+114,HQ608,Sylhet,Bangladesh,KU,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YYZ,LHR,580
+115,QR796,Dhaka,Bangladesh,KU,Asia,North America,Regina,YQR,Canada,1/1/11,transfer,YYZ,LHR,614
+116,CV926,Dhaka,Bangladesh,KU,Asia,North America,Saskatoon,YXE,Canada,1/1/11,transfer,YYZ,LHR,538
+117,OM592,Dhaka,Bangladesh,KU,Asia,North America,St. Johns,YYT,Canada,1/1/11,transfer,YYZ,LHR,577
+118,WZ945,Dhaka,Bangladesh,KU,Asia,North America,Winnipeg,YWG,Canada,1/1/11,transfer,YYZ,LHR,1025
+119,WN639,Dhaka,Bangladesh,LH,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,FRA,DEL,380
+120,SA535,Dhaka,Bangladesh,MU,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,PVG,KMG,950
+121,RB813,Dhaka,Bangladesh,PK,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,KHI,0,555
+122,DO156,Dhaka,Bangladesh,QR,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,CDG,DOH,341
+123,WU677,Dhaka,Bangladesh,QR,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,FRA,DOH,912
+124,YJ678,Dhaka,Bangladesh,QR,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,IAD,DOH,231
+125,FK627,Dhaka,Bangladesh,QR,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,IAD,DOH,1112
+126,RT639,Dhaka,Bangladesh,QR,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,IAD,DOH,1053
+127,JD342,Dhaka,Bangladesh,QR,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,IAD,DOH,1391
+128,TV319,Dhaka,Bangladesh,QR,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,IAH,DOH,667
+129,AW467,Dhaka,Bangladesh,QR,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,IAH,DOH,446
+130,GV155,Dhaka,Bangladesh,QR,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,IAH,DOH,231
+131,AN606,Dhaka,Bangladesh,QR,Asia,North America,Halifax,YHZ,Canada,1/1/11,transfer,JFK,DOH,626
+132,DN707,Dhaka,Bangladesh,QR,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,JFK,DOH,444
+133,EZ979,Dhaka,Bangladesh,QR,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,JFK,DOH,857
+134,AW008,Dhaka,Bangladesh,QR,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LHR,DOH,642
+135,VI927,Dhaka,Bangladesh,QR,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,LHR,DOH,637
+136,RS541,Dhaka,Bangladesh,QR,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LHR,DOH,585
+137,RE132,Dhaka,Bangladesh,QR,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,LHR,DOH,618
+138,EB117,Dhaka,Bangladesh,QR,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,LHR,DOH,926
+139,AU874,Dhaka,Bangladesh,QR,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,LHR,DOH,1137
+140,FN585,Dhaka,Bangladesh,QR,Asia,North America,Fredericton,YFC,Canada,1/1/11,transfer,YHZ,LHR,1462
+141,NO216,Dhaka,Bangladesh,QR,Asia,North America,Sydney,YQY,Canada,1/1/11,transfer,YHZ,LHR,267
+142,MP354,Dhaka,Bangladesh,QR,Asia,North America,Halifax,YHZ,Canada,1/1/11,transfer,YUL,LHR,190
+143,KE138,Dhaka,Bangladesh,QR,Asia,North America,Saskatoon,YXE,Canada,1/1/11,transfer,YYC,LHR,1337
+144,NL655,Dhaka,Bangladesh,QR,Asia,North America,Regina,YQR,Canada,1/1/11,transfer,YYZ,LHR,1219
+145,BU329,Dhaka,Bangladesh,QR,Asia,North America,Windsor,YQG,Canada,1/1/11,transfer,YYZ,LHR,580
+146,IH793,Dhaka,Bangladesh,QR,Asia,North America,Winnipeg,YWG,Canada,1/1/11,transfer,YYZ,LHR,1415
+147,EG246,Dhaka,Bangladesh,SQ,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,LAX,SIN,459
+148,EU523,Dhaka,Bangladesh,TK,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,IST,0,930
+149,RL162,B. Seri Begawan,Brunei Darussalam,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,NRT,SIN,1198
+150,BR011,B. Seri Begawan,Brunei Darussalam,CX,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,1333
+151,QT164,B. Seri Begawan,Brunei Darussalam,CX,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,HKG,0,287
+152,SI564,B. Seri Begawan,Brunei Darussalam,CX,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,HKG,0,159
+153,SU402,B. Seri Begawan,Brunei Darussalam,CX,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,YVR,HKG,422
+154,IQ604,B. Seri Begawan,Brunei Darussalam,KE,Asia,North America,Moncton,YQM,Canada,1/1/11,transfer,YYZ,ICN,353
+155,HT169,B. Seri Begawan,Brunei Darussalam,PR,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,MNL,0,1312
+156,WP106,B. Seri Begawan,Brunei Darussalam,SQ,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,LAX,SIN,1305
+157,AO883,B. Seri Begawan,Brunei Darussalam,SQ,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,SFO,SIN,653
+158,HD737,Phnom Penh,Cambodia,AA,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,LAX,HKG,840
+159,SR102,Phnom Penh,Cambodia,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,1305
+160,SA736,Phnom Penh,Cambodia,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,HKG,0,1253
+161,VZ944,Phnom Penh,Cambodia,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,ICN,0,1016
+162,GZ916,Phnom Penh,Cambodia,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,ICN,0,980
+163,LT361,Siem Reap,Cambodia,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,ICN,0,1392
+164,TS135,Phnom Penh,Cambodia,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PVG,0,1010
+165,MU915,Phnom Penh,Cambodia,AC,Asia,North America,Halifax,YHZ,Canada,1/1/11,transfer,YYZ,HKG,591
+166,AU647,Phnom Penh,Cambodia,AC,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YYZ,HKG,719
+167,OP311,Phnom Penh,Cambodia,AC,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YYZ,HKG,1262
+168,PN601,Phnom Penh,Cambodia,AC,Asia,North America,Quebec,YQB,Canada,1/1/11,transfer,YYZ,HKG,1033
+,PR270,Phnom Penh,Cambodia,AC,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,YVR,ICN,666
+170,YD885,Phnom Penh,Cambodia,AC,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,YVR,ICN,543
+171,ZL819,Phnom Penh,Cambodia,AC,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YVR,ICN,523
+172,NP284,Phnom Penh,Cambodia,AC,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YVR,ICN,295
+173,JF234,Phnom Penh,Cambodia,AC,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YVR,ICN,1500
+174,FJ657,Phnom Penh,Cambodia,AC,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YVR,ICN,1483
+175,PX701,Phnom Penh,Cambodia,AC,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YYZ,ICN,1361
+176,FT301,Phnom Penh,Cambodia,AC,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YYZ,ICN,1401
+177,WM663,Phnom Penh,Cambodia,AC,Asia,North America,Saskatoon,YXE,Canada,1/1/11,transfer,YVR,PVG,1088
+178,UB805,Phnom Penh,Cambodia,AC,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YYZ,PVG,1039
+179,DC668,Phnom Penh,Cambodia,AC,Asia,North America,Quebec,YQB,Canada,1/1/11,transfer,YYZ,PVG,1377
+180,KZ104,Phnom Penh,Cambodia,BR,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,TPE,0,828
+181,PD222,Phnom Penh,Cambodia,BR,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,TPE,0,1158
+182,TR614,Phnom Penh,Cambodia,BR,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,EWR,TPE,1319
+183,RT049,Phnom Penh,Cambodia,BR,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,YVR,TPE,515
+184,KQ365,Phnom Penh,Cambodia,BR,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,YVR,TPE,1277
+185,CN226,Phnom Penh,Cambodia,BR,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YVR,TPE,266
+186,BV361,Phnom Penh,Cambodia,BR,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YVR,TPE,223
+187,UB482,Phnom Penh,Cambodia,BR,Asia,North America,Winnipeg,YWG,Canada,1/1/11,transfer,YVR,TPE,1200
+188,UO437,Phnom Penh,Cambodia,BR,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YYZ,TPE,295
+,UO039,Phnom Penh,Cambodia,BR,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YYZ,TPE,236
+190,CL377,Phnom Penh,Cambodia,BR,Asia,North America,Quebec,YQB,Canada,1/1/11,transfer,YYZ,TPE,1087
+191,FS470,Phnom Penh,Cambodia,CI,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,TPE,0,991
+192,MI773,Phnom Penh,Cambodia,CI,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,JFK,TPE,1020
+193,LG284,Phnom Penh,Cambodia,CI,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,YVR,TPE,859
+194,WY373,Phnom Penh,Cambodia,CI,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,YVR,TPE,1407
+195,ZH499,Phnom Penh,Cambodia,CI,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YVR,TPE,298
+196,CJ641,Phnom Penh,Cambodia,CI,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YVR,TPE,672
+197,VT968,Phnom Penh,Cambodia,CI,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,YVR,TPE,721
+,AS136,Phnom Penh,Cambodia,CX,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,1408
+199,MD021,Phnom Penh,Cambodia,CX,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,HKG,0,1069
+200,QW310,Phnom Penh,Cambodia,CX,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,YVR,HKG,1461
+201,VD219,Phnom Penh,Cambodia,CX,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,YVR,HKG,192
+202,QP095,Phnom Penh,Cambodia,CX,Asia,North America,Victoria,YYJ,Canada,1/1/11,transfer,YVR,HKG,609
+203,QL187,Phnom Penh,Cambodia,CX,Asia,North America,Winnipeg,YWG,Canada,1/1/11,transfer,YVR,HKG,473
+204,OI431,Phnom Penh,Cambodia,CX,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YYZ,HKG,256
+205,VX780,Phnom Penh,Cambodia,CX,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YYZ,HKG,1166
+206,YE165,Siem Reap,Cambodia,CX,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,YVR,HKG,485
+207,FL599,Phnom Penh,Cambodia,DL,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,JFK,ICN,1387
+208,MG164,Phnom Penh,Cambodia,KE,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,ICN,0,1389
+209,UZ273,Phnom Penh,Cambodia,KE,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,ICN,0,1057
+210,OC950,Siem Reap,Cambodia,KE,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,ICN,0,1058
+211,PG312,Phnom Penh,Cambodia,KE,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,IAD,ICN,269
+212,XK907,Phnom Penh,Cambodia,KE,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,JFK,ICN,1035
+213,RQ287,Siem Reap,Cambodia,KE,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,JFK,ICN,1462
+214,EM960,Siem Reap,Cambodia,KE,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,LAX,ICN,1471
+215,NZ447,Siem Reap,Cambodia,KE,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,ORD,ICN,458
+216,DE248,Siem Reap,Cambodia,KE,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,ORD,ICN,664
+217,JF381,Phnom Penh,Cambodia,KE,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,ORD,ICN,168
+218,HD782,Phnom Penh,Cambodia,KE,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,ORD,ICN,564
+219,HI976,Siem Reap,Cambodia,KE,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,ORD,ICN,407
+220,CZ867,Phnom Penh,Cambodia,KE,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,SEA,ICN,505
+221,LM246,Phnom Penh,Cambodia,KE,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,SFO,ICN,1221
+222,UH790,Siem Reap,Cambodia,KE,Asia,North America,Calgary,YYC,Canada,1/1/11,transfer,YVR,ICN,319
+223,GD498,Phnom Penh,Cambodia,KE,Asia,North America,Edmonton,YEG,Canada,1/1/11,transfer,YVR,ICN,307
+224,JM909,Phnom Penh,Cambodia,KE,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YVR,ICN,1249
+225,ZT824,Siem Reap,Cambodia,KE,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YVR,ICN,482
+226,WY097,Siem Reap,Cambodia,KE,Asia,North America,Nanaimo,YCD,Canada,1/1/11,transfer,YVR,ICN,990
+227,XJ413,Phnom Penh,Cambodia,KE,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YVR,ICN,1185
+228,UR975,Siem Reap,Cambodia,KE,Asia,North America,Victoria,YYJ,Canada,1/1/11,transfer,YVR,ICN,1222
+229,GO961,Phnom Penh,Cambodia,KE,Asia,North America,Winnipeg,YWG,Canada,1/1/11,transfer,YVR,ICN,1057
+230,PB107,Phnom Penh,Cambodia,KE,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,YYZ,ICN,769
+231,GV473,Phnom Penh,Cambodia,KE,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,YYZ,ICN,1456
+232,HZ500,Phnom Penh,Cambodia,MU,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,PVG,0,1313
+233,YO895,Beijing,China,AA,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,ORD,0,873
+234,DJ778,Shanghai,China,AA,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,ORD,0,487
+235,HQ279,Beijing,China,AA,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,ORD,0,836
+236,RB795,Shanghai,China,AA,Asia,North America,Ottawa,YOW,Canada,1/1/11,transfer,ORD,0,207
+,QD259,Beijing,China,AA,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,ORD,0,1273
+238,UK843,Shanghai,China,AA,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,ORD,0,1162
+239,AP895,Shanghai,China,AA,Asia,North America,Halifax,YHZ,Canada,1/1/11,transfer,JFK,NRT,354
+240,SF917,Beijing,China,AA,Asia,North America,Halifax,YHZ,Canada,1/1/11,transfer,JFK,ORD,921
+241,IJ504,Dalian,China,AA,Asia,North America,Montreal,YUL,Canada,1/1/11,transfer,ORD,PEK,561
+242,UR118,Dalian,China,AA,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,ORD,PVG,1444
+243,EW099,Beijing,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,direct,0,0,1106
+,XT198,Shanghai,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,direct,0,0,510
+245,DP530,Beijing,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,direct,0,0,1005
+246,TI391,Shanghai,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,direct,0,0,786
+247,JF688,Beijing,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,1035
+248,XN106,Changsha,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,1187
+249,SR026,Chengdu,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,628
+250,WF912,Fuzhou,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,1329
+251,GJ338,Guangzhou,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,778
+252,FY738,Guangzhou,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,1350
+253,YL297,Guangzhou,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,1237
+254,PK498,Nanjing,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,566
+255,WD051,Nanning,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,818
+256,VF137,Shanghai,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,1262
+,HY708,Xiamen,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,HKG,0,375
+258,LB373,Guangzhou,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,HKG,0,1063
+259,FR667,Nanjing,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,HKG,0,585
+260,DO331,Changsha,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,ICN,0,532
+261,KE442,Guangzhou,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,NRT,0,981
+262,BN124,Chengdu,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,906
+263,QL903,Chongqing,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,391
+264,BG150,Dalian,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,784
+265,DU909,Guangzhou,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,1148
+266,ZD483,Harbin,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,636
+267,XM846,Hohhot,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,817
+268,QH572,Kunming,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,1469
+269,WM537,Lanzhou,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,357
+270,KJ550,Nanning,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,1216
+271,ZA138,Shenyang,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,912
+272,KR042,Xi An,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,967
+273,KY805,Xiamen,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,1260
+274,JN532,Yantai,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,1196
+275,QZ244,Zhengzhou,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,1203
+276,DM965,Zhengzhou,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PEK,0,1443
+277,NC588,Chengdu,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,PEK,0,974
+278,MW758,Chongqing,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,PEK,0,1048
+279,SK505,Dalian,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,PEK,0,674
+,MF862,Hangzhou,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,PEK,0,297
+281,RT614,Shenyang,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,PEK,0,949
+282,OK649,Wenzhou,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,PEK,0,981
+283,SW835,Xiamen,China,AC,Asia,North America,Vancouver,YVR,Canada,1/1/11,transfer,PEK,0,628
+284,VQ895,Beijing,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PVG,0,814
+285,KV458,Chongqing,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PVG,0,203
+286,NH279,Dalian,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PVG,0,1420
+287,LI260,Nanchang,China,AC,Asia,North America,Toronto,YYZ,Canada,1/1/11,transfer,PVG,0,880
